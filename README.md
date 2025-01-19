@@ -1,4 +1,4 @@
-# F1 Meme App "You got a problem? Charge your fxxking car!"
+# F1 Meme App "You got a problem? Change your fxxking car!"
 
 A new Flutter project.
 
