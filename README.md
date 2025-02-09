@@ -1,16 +1,9 @@
 # F1 Meme App "You got a problem? Change your fxxking car!"
 
-A new Flutter project.
+### * 토이 프로젝트 : 넷플릭스 본능의 질주 시리즈 중 나온 밈 이용
 
-## Getting Started
+<img src="images/changeyourcar_meme.jpg">
 
-This project is a starting point for a Flutter application.
+### * 간단한 플로터 앱 인터페이스 구현
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src= "images/ChangeYourCar.png">
