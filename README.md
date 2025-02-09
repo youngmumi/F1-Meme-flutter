@@ -4,6 +4,6 @@
 
 <img src="images/changeyourcar_meme.jpg">
 
-### * 간단한 플로터 앱 인터페이스 구현
+### * 간단한 flutter 인터페이스 구현
 
 <img src= "images/ChangeYourCar.png">
